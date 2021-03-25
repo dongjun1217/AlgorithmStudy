@@ -43,6 +43,7 @@ public class QuickSort {
 	public static void main(String[] args) {
 		int[] array = { 9, 8, 7, 4, 5, 2, 1, 6, 10, 3 };
 		quickSort(array);
+		
 		for (int i = 0; i < array.length; i++) {
 			System.out.println(array[i]);
 		}
