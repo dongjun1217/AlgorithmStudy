@@ -56,6 +56,6 @@ public class RecursiveCall {
 		System.out.println("팩토리얼 : " + factorial(10));
 		System.out.println("회문 : " + palindrome("토마토"));
 		System.out.println("경우의수 : " + numberOfCases(5));
-		System.out.println("피보나치 수열 : " + fibonacci(4));
+		System.out.println("피보나치 수열 : " + fibonacci(10));
 	}
 }
